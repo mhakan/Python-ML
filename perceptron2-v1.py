@@ -51,9 +51,5 @@ class Layer:
             self.neuron.append(Neuron())
     
 
-        
-
-
-
 l1 = Layer(2)
 print(l1.neuron_num)

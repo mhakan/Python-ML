@@ -18,7 +18,7 @@ np.random.seed()
 w = np.random.rand(1,3)
 
 #Constant c
-c=0.35
+c=0.1
 
 #Cycle error
 Err = 0
@@ -64,7 +64,7 @@ plt.plot(1,1,'bo')
 
 #Draws discriminant using w weights
 plt.plot(discriminant_x,discriminant_y)
-
+#Plot 
 plt.grid(True)
 plt.axis([-0.1,1.1,-0.1,1.1])
 plt.show()
