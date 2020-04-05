@@ -1,5 +1,5 @@
 # Author: Hakan Bozkurt (27.03.2020)
-# Algoritm: Single layer single neuron Perceptron (Ref. Zurada, Jacek M. "Artificial Neural Systems." New Yrok: W est Publishing Co 1 (1995): 992.)
+# Algoritm: Single Layer Single Neuron Discrete Perceptron (Ref. Zurada, Jacek M. "Artificial Neural Systems." New Yrok: W est Publishing Co 1 (1995): 992.)
 # Case: AND Operation Using Perceptron Algorithm
 # Perceptron network consist of one single neuron. There are 3 inputs, one of the inputs is the bias.
 
