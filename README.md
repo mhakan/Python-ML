@@ -1,2 +1,2 @@
 # Python
- Python tips and codes
+ Python machine learning tips and codes
